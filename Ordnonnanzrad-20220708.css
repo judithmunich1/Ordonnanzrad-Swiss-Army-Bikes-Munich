@@ -1,0 +1,133 @@
+/* Primary selectors*/
+
+
+
+body {
+	background-color: lightblue;
+	color: #000
+	font-family: "Times New Roman", Times, serif;
+	font-size: large
+}
+	
+H1 {
+		
+		color:blue; 
+		font-size:200%;
+		margin-left: 440px; 		
+	
+}
+
+	
+H2 {
+		
+		color:blue; 
+		font-size:110%;
+		margin-left: 200px; 		
+	
+}
+
+
+
+	
+H3 {
+		
+		color:blue; 
+		font-size:100%;
+		margin-left: -40px; 		
+		font-family: “Comic Sans MS”, “Comic Sans”, cursive;
+}
+
+
+
+
+.testClass {
+	color:red;
+	font-size:300%;
+	
+	
+}
+
+
+.regular {
+	color: blue;
+	font-size:100%;
+	
+	
+}
+
+
+table {
+		
+	width: 500px;
+	border-collapse: collapse;
+	table-layout: fixed;
+}
+
+
+td {
+	vertical-align: top;
+	padding: 5px;
+	word-wrap: break-word;
+	
+}
+
+
+/* ID´s and classes*/
+
+#fullpage {
+	margin: 100px;
+	
+}
+
+
+	
+.label_col {
+		text.align: right;
+		}
+
+
+.input_col {
+		text.align: left;
+		}
+		
+.feedback_col {
+	text-align: center;
+	vertical-align: middle;
+	color: lightgrey;
+	font-size: small;
+	
+	}
+	
+.Button {
+	margin: auto;
+	text-align: center;
+	widht: 50px;
+	
+	}
+
+
+p {
+	
+		color:Darkblue; 
+		font-size:100%;
+		margin-left: 0px;
+
+}
+
+/* Color of text is Telemagenta HEX code #BB3E77*/
+
+div {
+	
+	display: block;
+	font-size:100%;
+	color: #BB3E77;
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+}
