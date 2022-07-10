@@ -4,8 +4,9 @@
 body {
 	
 	background-image: url('LandschaftHintergrund.jpg');
-
-    background-repeat: no-repeat;
+   	background-repeat: no-repeat;
+	background-attachment: fixed;
+  	background-size: cover;
    
 
 }
