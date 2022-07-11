@@ -3,7 +3,7 @@ function myPrompt() {
    var person = prompt("Please enter your name", "Your name");  //The second string option
    if (person != "") {  //!=means "not equal to"
          document.getElementById("test").innerHTML = 
-         "Hello " + person + "! How are you today? We are happy that you are here to customize your DREAM BIKE!";
+         "Hello " + person + "! This page is dedicated to Stephans collection of Swiss Army Bikes. Please enjoy!";
    		
    
    } 
